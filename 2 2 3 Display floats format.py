@@ -1,0 +1,11 @@
+n1 = float(input())
+n2 = float(input())
+n3 = float(input())
+n4 = float(input())
+n5 = float(input())
+
+print(format(n1,'7.2f'))
+print(format(n2,'7.2f'))
+print(format(n3,'7.2f'))
+print(format(n4,'7.2f'))
+print(format(n5,'7.2f'))
