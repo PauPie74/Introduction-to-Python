@@ -13,7 +13,7 @@ ax.bar(labels, box, width, bottom=budget,
 
 
 ax.tick_params(axis='x', rotation=90)
-ax.set_title('Paulina Pieper')
+ax.set_title('Highest-grossin movies')
 ax.legend(edgecolor='black')
 
 ax.set_xticks([0,1,2,3,4,5,6,7,8,9,10])

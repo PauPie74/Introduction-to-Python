@@ -14,7 +14,7 @@ rects2 = ax.bar(x + width/2, women, width, label='Women', color='red')
 
 ax.set_ylabel('Wyniki')
 ax.set_xlabel('Ludzie')
-ax.set_title('Paulina Pieper')
+ax.set_title('Title')
 ax.set_xticks([0,1,2,3,4])
 ax.set_xticklabels(labels)
 ax.legend()

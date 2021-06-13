@@ -10,6 +10,6 @@ ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
 ax1.axis('equal')
 
 
-plt.title('Popularność języków programowania\n Paulina Pieper')
+plt.title('Popularność języków programowania')
 
 plt.show()

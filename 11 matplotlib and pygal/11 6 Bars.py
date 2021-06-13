@@ -7,7 +7,7 @@ bar_width = 4
 
 plt.bar(left,heights,bar_width,color=('r','black','g','b','yellow','xkcd:cyan'))
 
-plt.title('Popularność języków programowania\n Paulina Pieper')
+plt.title('Popularność języków programowania')
 plt.xlabel('Język programowania')
 plt.ylabel('Popularność')
 

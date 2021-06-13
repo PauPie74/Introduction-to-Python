@@ -6,7 +6,7 @@ x2_cords = [10,20,30]
 y2_cords = [40,10,30]
 plt.plot(x_cords, y_cords)
 plt.plot(x2_cords,y2_cords)
-plt.title("Paulina Pieper")
+plt.title("Title")
 plt.xlabel("Oś X")
 plt.ylabel("Oś Y")
 

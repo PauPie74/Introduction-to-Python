@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 x_cords = [1,2,3]
 y_cords = [2,4,1]
 plt.plot(x_cords, y_cords)
-plt.title("Paulina Pieper")
+plt.title("Title")
 plt.xlabel("Oś X")
 plt.ylabel("Oś Y")
 

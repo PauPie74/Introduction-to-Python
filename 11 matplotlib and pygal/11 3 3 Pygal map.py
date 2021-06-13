@@ -5,7 +5,7 @@ custom_style = Style(
     colors=('#007aba', '#4d00bb', '#a900ba', '#cf0080', '#cc0025','#be9720','#5bc81f'))
 
 world = pygal.maps.world.SupranationalWorld(style=custom_style)
-world.title = 'Paulina Pieper'
+world.title = 'Continens'
 world.add('Asia', [('asia', 1,)])
 world.add('Europe', [('europe', 1)])
 world.add('Africa', [('africa', 1)])

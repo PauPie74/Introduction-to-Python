@@ -18,7 +18,7 @@ bar_width = 4
 
 plt.bar(left,heights,bar_width)
 
-plt.title("Paulina Pieper")
+plt.title("Title")
 plt.xticks([2,7,12,17,22,27,32],['Jedzie', 'Andrzej', 'rowerem', 'ledwie', 'dając', 'radę', 'nogami'])
 
 plt.minorticks_on()
