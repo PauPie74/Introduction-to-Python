@@ -1,0 +1,1 @@
+zmiennaA, zmiennaB = zmiennaB, zmiennaA
