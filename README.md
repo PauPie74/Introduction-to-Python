@@ -1,5 +1,5 @@
 # Introduction-to-Python
-This repository is a collection of excercises done as a part of Introduction to Python classes.
+This repository is a collection of excercises done as a part of Introduction to Programming (Python) course.
 
 > February - June 2021
 
